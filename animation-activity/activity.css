@@ -28,8 +28,8 @@ nav {
 }
 
 @keyframes top {
-  from {}
-  to {}
+  from {left: 1;}
+  to {right: 1;}
 }
 
 @keyframes middle {
@@ -38,6 +38,7 @@ nav {
 }
 
 @keyframes bottom {
-  from {}
-  to {}
+  from {left: 1;}
+  to {right: 1;}
 }
+

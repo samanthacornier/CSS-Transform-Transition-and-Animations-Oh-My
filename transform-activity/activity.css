@@ -1,3 +1,4 @@
-main {
-
+main { 
+    
+    transform: skewX(20deg);
 }
